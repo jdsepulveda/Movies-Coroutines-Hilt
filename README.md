@@ -1,0 +1,6 @@
+- Hilt
+- Retrofit
+- Kotlin
+- MVVM
+- Coroutine
+- Navigation
